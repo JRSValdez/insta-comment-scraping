@@ -1,21 +1,21 @@
 # insta-comment-scraping
 Python script to get comments from a public post
 
-#Usage
+# Usage
 
-#Step 1 - Dependencies
+# Step 1 - Dependencies
 - selenium
 - pandas
 
-#Step 2 
+# Step 2 
 Change the path of your ChromeDriver
 
-#Step 3
+# Step 3
 - run the script
-#python public_post_url numberOfMoreCommentsClics
+# python public_post_url numberOfMoreCommentsClics
 
-#example
+# example
 
-#python instascrapper.py https://www.instagram.com/p/B-jrT5AogXx/ 10
+# python instascrapper.py https://www.instagram.com/p/B-jrT5AogXx/ 10
 
 
