@@ -12,10 +12,10 @@ Change the path of your ChromeDriver
 
 # Step 3
 - run the script
-# python public_post_url numberOfMoreCommentsClics
+#python public_post_url numberOfMoreCommentsClics
 
 # example
 
-# python instascrapper.py https://www.instagram.com/p/B-jrT5AogXx/ 10
+#python instascrapper.py https://www.instagram.com/p/B-jrT5AogXx/ 10
 
 
